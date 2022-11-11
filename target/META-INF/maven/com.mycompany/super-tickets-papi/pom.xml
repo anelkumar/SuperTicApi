@@ -36,7 +36,7 @@
 						<applicationName>superticket-api-cicdbed22</applicationName>
 						<username>${env.PLATFORM_USERNAME}</username>
 						<password>${env.PLATFORM_PASSWORD}</password>
-						<environment>Sandbox</environment>
+						<environment>Dev</environment>
 						<workers>1</workers>
 						<workerType>MICRO</workerType>
 						<objectStoreV2>true</objectStoreV2>
