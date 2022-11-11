@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>20b72f41-e533-476a-be27-9859f6efa749</groupId>
+  <artifactId>super-ticket-papi</artifactId>
+  <version>1.0.0</version>
+  <name>Super Ticket PAPI</name>
+  <properties>
+    <classifier>oas</classifier>
+    <main>super-ticket-papi.yaml</main>
+    <status>published</status>
+    <originalFormatVersion>2.0</originalFormatVersion>
+    <apiVersion>v1</apiVersion>
+    <projectId>f9cea806-302c-4c2f-97f6-9655a8be476a</projectId>
+    <branchId>master</branchId>
+    <commitId>cc849bf86474734059dce28bb67cecfd3b8cebde</commitId>
+    <keywords/>
+    <type>rest-api</type>
+    <mainFile>super-ticket-papi.yaml</mainFile>
+  </properties>
+  <repositories>
+    <repository>
+      <id>anypoint-exchange</id>
+      <url>https://maven.anypoint.mulesoft.com/api/v3/maven</url>
+    </repository>
+  </repositories>
+</project>
